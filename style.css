@@ -1,0 +1,42 @@
+html{
+	font-size: 125%;
+	font-family: 'Slabo 27px', serif;
+	text-align: center;
+	position: relative;
+	height: 100%;
+}
+
+body{
+	width: 500px;
+	height: 300px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+}
+
+textarea{
+	font-size: 1.4rem;
+	width: 400px;
+	height: 100px;
+	resize: none;
+}
+
+h1{
+	margin-bottom: 0;
+	font-size: 1.35rem;
+}
+
+h2{
+	margin-top: 0;
+	margin-bottom: 2rem;
+	padding: 0;
+
+	font-weight: bold;
+	font-size: 0.8rem;
+	font-family: Arial;
+
+	color: rgb(121, 155, 210);
+}
